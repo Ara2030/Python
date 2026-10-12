@@ -16,9 +16,11 @@
 ## Файлы
 
 - `hello_world.py` — первая программа, изучение переменных, строк и функции `print()`
+- `simple_message.py` — простые сообщения, работа со строковыми переменными и вывод через `print()`
 
 ## Запуск
 
 ```bash
 python hello_world.py
+python simple_message.py
 ```
