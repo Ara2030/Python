@@ -18,6 +18,7 @@
 - `hello_world.py` — первая программа, изучение переменных, строк и функции `print()`
 - `simple_message.py` — простые сообщения, работа со строковыми переменными и вывод через `print()`
 - `name.py` — работа со строками: методы `title()`, `upper()`, `lower()`
+- `full_name.py` — f-строки: подстановка переменных в строку и форматирование вывода
 
 ## Запуск
 
@@ -25,3 +26,4 @@
 python hello_world.py
 python simple_message.py
 python name.py
+python full_name.py
