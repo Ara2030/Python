@@ -21,6 +21,7 @@
 - `full_name.py` — f-строки: подстановка переменных в строку и форматирование вывода
 - `apostrophe.py` — апострофы в строках: почему нужны двойные кавычки (демонстрация `SyntaxError`)
 - `name_cases.py` - упражнения по строкам: личное сообщение, регистр, цитаты, удаление пробелов (`lstrip()`, `rstrip()`, `strip()`)
+- `comment.py` — комментарии в Python: пример комментария и вывод сообщения через `print()`
 
 ## Запуск
 
@@ -31,3 +32,4 @@ python name.py
 python full_name.py
 python apostrophe.py
 python name_cases.py
+python comment.py
