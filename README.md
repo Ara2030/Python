@@ -22,6 +22,7 @@
 - `apostrophe.py` — апострофы в строках: почему нужны двойные кавычки (демонстрация `SyntaxError`)
 - `name_cases.py` - упражнения по строкам: личное сообщение, регистр, цитаты, удаление пробелов (`lstrip()`, `rstrip()`, `strip()`)
 - `comment.py` — комментарии в Python: пример комментария и вывод сообщения через `print()`
+- `bicycles.py` — списки: создание, индексация, отрицательные индексы.
 
 ## Запуск
 
@@ -33,3 +34,4 @@ python full_name.py
 python apostrophe.py
 python name_cases.py
 python comment.py
+python bicycles.py
