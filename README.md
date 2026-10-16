@@ -24,6 +24,7 @@
 - `comment.py` — комментарии в Python: пример комментария и вывод сообщения через `print()`
 - `bicycles.py` — списки: создание, индексация, отрицательные индексы.
 - `list.py` — упражнения по спискам: имена, сообщения для каждого элемента, собственный список машин
+- `motorcycles.py` — списки: изменение элементов, `append()`, `insert()`, `del`, `pop()`, `remove()`
 
 ## Запуск
 
@@ -37,3 +38,4 @@ python name_cases.py
 python comment.py
 python bicycles.py
 python list.py
+python motorcycles.py
