@@ -25,6 +25,7 @@
 - `bicycles.py` — списки: создание, индексация, отрицательные индексы.
 - `list.py` — упражнения по спискам: имена, сообщения для каждого элемента, собственный список машин
 - `motorcycles.py` — списки: изменение элементов, `append()`, `insert()`, `del`, `pop()`, `remove()`
+- `guests.py` — упражнения по спискам: приглашения гостей, изменение списка, `insert()`, `append()`, `pop()`, `del`, сокращение списка до пустого
 
 ## Запуск
 
@@ -39,3 +40,4 @@ python comment.py
 python bicycles.py
 python list.py
 python motorcycles.py
+python guests.py
