@@ -26,6 +26,7 @@
 - `list.py` — упражнения по спискам: имена, сообщения для каждого элемента, собственный список машин
 - `motorcycles.py` — списки: изменение элементов, `append()`, `insert()`, `del`, `pop()`, `remove()`
 - `guests.py` — упражнения по спискам: приглашения гостей, изменение списка, `insert()`, `append()`, `pop()`, `del`, сокращение списка до пустого
+- `cars.py` — сортировка списков: `sort()`, `sort(reverse=True)`, `sorted()`, `reverse()`, `len()`
 
 ## Запуск
 
@@ -41,3 +42,4 @@ python bicycles.py
 python list.py
 python motorcycles.py
 python guests.py
+python cars.py
