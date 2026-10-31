@@ -27,6 +27,7 @@
 - `motorcycles.py` — списки: изменение элементов, `append()`, `insert()`, `del`, `pop()`, `remove()`
 - `guests.py` — упражнения по спискам: приглашения гостей, изменение списка, `insert()`, `append()`, `pop()`, `del`, сокращение списка до пустого
 - `cars.py` — сортировка списков: `sort()`, `sort(reverse=True)`, `sorted()`, `reverse()`, `len()`
+- `list2.py`— упражнения по спискам: сортировка `sorted()`, `sort()`, `reverse()`, `len()`
 
 ## Запуск
 
@@ -43,3 +44,4 @@ python list.py
 python motorcycles.py
 python guests.py
 python cars.py
+python list2.py
