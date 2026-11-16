@@ -28,6 +28,7 @@
 - `guests.py` — упражнения по спискам: приглашения гостей, изменение списка, `insert()`, `append()`, `pop()`, `del`, сокращение списка до пустого
 - `cars.py` — сортировка списков: `sort()`, `sort(reverse=True)`, `sorted()`, `reverse()`, `len()`
 - `list2.py`— упражнения по спискам: сортировка `sorted()`, `sort()`, `reverse()`, `len()`
+- `magicians.py` — цикл `for`: перебор списка, вывод каждого элемента
 
 ## Запуск
 
@@ -45,3 +46,4 @@ python motorcycles.py
 python guests.py
 python cars.py
 python list2.py
+python magicians.py
