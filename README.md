@@ -30,6 +30,7 @@
 - `list2.py`— упражнения по спискам: сортировка `sorted()`, `sort()`, `reverse()`, `len()`
 - `magicians.py` — цикл `for`: перебор списка, вывод каждого элемента
 - `pizza_and_animals.py` - an exercise using loops.
+- `first_numbers.py` - знакомства с функцией range()
 
 ## Запуск
 
@@ -49,3 +50,4 @@ python cars.py
 python list2.py
 python magicians.py
 python pizza_and_animals.py
+python first_numbers.py
